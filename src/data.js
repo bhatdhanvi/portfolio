@@ -2,7 +2,7 @@
 export const profile = {
     name: 'Dhanvi Bhat',
     firstName: 'Dhanvi',
-    location: 'Mangalore, India',
+    location: 'Bangalore, India',
     email: 'dhanvigbhat@gmail.com',
     github: 'https://github.com/bhatdhanvi',
     linkedin: 'https://www.linkedin.com/in/bhatdhanvi',
@@ -63,7 +63,7 @@ export const projects = [
     {
         emoji: '🌿',
         title: 'Virtual Herbal Garden using Virtual Reality',
-        period: 'Mar 2023 – Jun 2023',
+        period: 'Jan 2025 – Jun 2025',
         description:
             'Developed a digital platform where users can interact with 3D models of medicinal plants and experience virtual reality tours. Through this users can immerse themselves in the world of medicinal plants, learning and engaging with them in a much more interactive way',
         stack: ['HTML', 'CSS', 'JavaScript', 'React'],
@@ -132,6 +132,7 @@ export const education = [
 ]
 
 export const achievements = [
+    'Published a research paper on Virtual Herbal Garden Using Virtual Reality Methodology on SSRN documenting the system design, reaching 1.3k+ views and 180+ downloads',
     'Letter of Appreciation for demonstrating IoT projects at the "From Concepts to Reality: Connecting the Dots" workshop, Malnad College of Engineering, Hassan.',
     'Selected at college level for the Smart India Hackathon (SIH).',
     'Selected to attend the Q-Karyashala Workshop at IISc, Bangalore.',
